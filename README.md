@@ -1,4 +1,4 @@
-# My To-Do List App
+# To-Do WebApp
 
 A simple To-Do List app built with HTML, CSS, and JavaScript.
 
